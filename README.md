@@ -1,2 +1,3 @@
 first create a .venv in your cmd
-install the rqr.txt
+pip install rqr.txt (pip install -r rq.txt)
+
